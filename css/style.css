@@ -236,7 +236,6 @@ body{
   font-family: Trebuchet MS, sans-serif;
   margin-top: 435px;
   font-size: 1.2vw;
-  position: absolute;
 }
 .texx h2{
   text-align: center;
@@ -339,6 +338,7 @@ body{
   opacity: 40%;
 }
 .texxx{
+  position: absolute;
   margin-top: 260px;
   margin-left: 150px;
   margin-right: 150px;
