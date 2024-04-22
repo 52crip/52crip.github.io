@@ -51,7 +51,7 @@ body{
 .list{
   width: 100%;
   height: auto;
-  position: relative;
+  position: absolute;
 }
 .headd{
   box-sizing: border-box;
