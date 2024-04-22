@@ -236,6 +236,7 @@ body{
   font-family: Trebuchet MS, sans-serif;
   margin-top: 435px;
   font-size: 1.2vw;
+  position: absolute;
 }
 .texx h2{
   text-align: center;
