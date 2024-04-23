@@ -16,9 +16,8 @@ body{
   position: fixed;
 }
 .iconlogo{
-  margin-left: 1790px;
+  margin-left: 1810px;
   margin-top: -350px;
-  position: absolute;
 }
 .cmen{
   margin-top: 362px;
@@ -183,12 +182,12 @@ body{
 }
 .colc{
   position: relative;
+  padding: 30px;
 }
 .colc img{
   width: 400px;
   height: 250px;
   border-radius: 5%;
-  margin-right: 65px;
   box-shadow: -2px 2px 6px 5px rgba(255, 255, 255, 0.63)
 }
 .colc_1{
@@ -322,7 +321,6 @@ body{
   margin-left: 1200px;
   margin-top: -50px;
 }
-
 .fig1{
   position: absolute;
   opacity: 40%;
@@ -338,7 +336,6 @@ body{
   opacity: 40%;
 }
 .texxx{
-  position: absolute;
   margin-top: 260px;
   margin-left: 150px;
   margin-right: 150px;
