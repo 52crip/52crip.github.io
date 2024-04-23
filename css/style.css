@@ -14,7 +14,7 @@ body{
   width: 80px;
   cursor: pointer;
   position: fixed;
-}
+} 
 .iconlogo{
   margin-left: 1810px;
   margin-top: -350px;
@@ -324,11 +324,12 @@ body{
 .fig1{
   position: absolute;
   opacity: 40%;
-  width: 22%;
+  width: 20%;
   margin-left: -15px;
   margin-top: 50px;
 }
 .fig2{
+  height: auto;
   position: absolute;
   width: 25%;
   margin-top: 450px;
@@ -460,4 +461,106 @@ body{
 }
 .kers{
 margin-left: 20px;
+}
+@media (max-width: 480px) {
+  .texx{
+    margin-left: -75px;
+    margin-right: -75px;
+  }
+  .tex{
+    margin-left: -75px;
+    margin-right: -75px;
+  }
+}
+@media (max-width: 600px) {
+  .texx{
+    margin-left: -100px;
+    margin-right: -100px;
+  }
+  .tex{
+    margin-left: -100px;
+    margin-right: -100px;
+  }
+}
+@media (max-width: 900px) {
+  .texx{
+    margin-left: -75px;
+    margin-right: -75px;
+  }
+  .tex{
+    margin-left: -75px;
+    margin-right: -75px;
+  }
+  .headd h1{
+    font-size: 31px;
+  }
+  .fig2{
+    margin-left: 700px;
+  }
+  .texxxxx{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 18px;
+  }
+  .texxxx{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 18px;
+  }
+  .texxx{
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 18px;
+  }
+  .osn img{
+    max-width: 900px;
+  }
+  .osn1 img{
+    width: 900px;
+  }
+}
+@media (max-width:600px){
+  .colc{
+    width: 250px;
+    max-height: 100px;
+    padding: 75px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .headd h1{
+    font-size: 20px;
+  }
+  .iframe{
+    max-height: 150px;
+  }
+  .btn{
+    font-size: 14px;
+  }
+  .fig2{
+    margin-left: 470px;
+  }
+  .texxxxx{
+    margin-left: 75px;
+    margin-right: 75px;
+    line-height: 18px;
+    margin-top: 440px;
+  }
+  .texxxx{
+    margin-left: 75px;
+    margin-right: 75px;
+    line-height: 18px;
+    margin-top: 440px;
+  }
+  .texxx{
+    margin-left: 75px;
+    margin-right: 75px;
+    line-height: 18px;
+    margin-top: 440px;
+  }
+  .osn img{
+    max-width: 600px;
+  }
+  .osn1 img{
+    width: 600px;
+  }
 }
